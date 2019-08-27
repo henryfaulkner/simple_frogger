@@ -7,3 +7,9 @@ How to get repository:
 How to Play:    
     (On MAC OS X) 
     $cd simple_frogger/application.macosx; open -a Simple_Frogger.app
+
+    (On Windows 32)
+    $cd simple_frogger/application.windows32; start Simple_Frogger.exe
+
+    (On Windows 64)
+    $cd simple_frogger/application.windows64; start Simple_Frogger.exe
