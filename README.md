@@ -1,5 +1,4 @@
-# This is a simple game of Frogger written in Java using the visualization 
-software Processing.
+# This is a simple game of Frogger written in Java using the visualization software Processing.
 
 ## How to get repository:
     $git clone https://github.com/henryfaulkner/simple_frogger.git
