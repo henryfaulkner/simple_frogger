@@ -1,6 +1,6 @@
 # This is a simple game of Frogger written in Java using the visualization software Processing.
 
-## How to get repository:
+## How to get the repository:
     $git clone https://github.com/henryfaulkner/simple_frogger.git
 
 ## How to Play:    
